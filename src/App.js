@@ -8,7 +8,7 @@ class App extends Component {
     todos: [
       {id: 1, content: 'buy some milk'},
       {id: 2, content: 'go to gym'},
-      {id: 3, content: 'play mario kart'}
+      {id: 3, content: 'build apps'}
     ]
   }
   deleteTodo = (id) => {
